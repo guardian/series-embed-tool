@@ -3,6 +3,14 @@
         .title {
             color: $c-color;
         }
+
+        .button {
+            background-color: $c-color;
+
+            &:hover {
+                background-color: darken($c-color, 5%);
+            }
+        }
     }
 }
 

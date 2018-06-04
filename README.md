@@ -1,4 +1,4 @@
-# Embed Template
+# Series Embed Tool
 
 A template for create editable embeds
 

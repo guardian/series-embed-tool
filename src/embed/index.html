@@ -22,11 +22,14 @@
     <script class="template" type="text/x-handlebars-template">
         <div class='wrapper wrapper--{{ handlise vertical }}'>
             <div class='header'>
-                <h1 class='title'>{{ series }}</h1>
+                <h1 class='title'>{{ series-name }}</h1>
             </div>
             <div class="content">
-                {{ copy }}
+                {{ description }}
             </div>
+            {{#if series-link}}
+                <a class='button' href='{{ series-link }}' target="_parent">Learn more</a>
+            {{/if}}
         </div>
     </script>
 

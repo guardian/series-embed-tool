@@ -6,12 +6,20 @@
     },
 
     {
-        "name": "Series",
-        "type": "text"
+        "name": "Series Name",
+        "type": "text",
+        "default": "Name of the series"
     },
 
     {
-        "name": "Copy",
-        "type": "textarea"
+        "name": "Series Link",
+        "type": "text",
+        "default": "https://www.theguardian.com/us-news/series/break-the-cycle"
+    },
+
+    {
+        "name": "Description",
+        "type": "textarea",
+        "default": "I am the description of the series. This should be short and not be too long. Otherwise people just won't read it."
     }
 ]
