@@ -6,6 +6,11 @@
     },
 
     {
+        "name": "Opinion Tint",
+        "type": "checkbox"
+    },
+
+    {
         "name": "Series Name",
         "type": "text",
         "default": "Name of the series"
