@@ -1,3 +1,6 @@
+| WARNING: This tool has been superseded by a general [embed tool](https://github.com/guardian/embed-tool) and should no longer be used |
+| --- |
+
 # Series Embed Tool
 
 A template for create editable embeds
